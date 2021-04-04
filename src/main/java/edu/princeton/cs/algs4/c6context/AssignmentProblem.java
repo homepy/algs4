@@ -11,8 +11,8 @@
 package edu.princeton.cs.algs4.c6context;
 
 import edu.princeton.cs.algs4.c4graphs.DijkstraSP;
-import edu.princeton.cs.algs4.c4graphs.DirectedEdge;
-import edu.princeton.cs.algs4.c4graphs.EdgeWeightedDigraph;
+import edu.princeton.cs.algs4.c4graphs.s4ewdgsp.DirectedEdge;
+import edu.princeton.cs.algs4.c4graphs.s4ewdgsp.EdgeWeightedDigraph;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 import edu.princeton.cs.algs4.stdlib.StdRandom;
 

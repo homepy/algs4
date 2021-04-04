@@ -11,7 +11,7 @@
 
 package edu.princeton.cs.algs4.c3searching;
 
-import edu.princeton.cs.algs4.c1fundamentals.Vector;
+import edu.princeton.cs.algs4.c1fundamentals.s1s2.Vector;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 
 /**

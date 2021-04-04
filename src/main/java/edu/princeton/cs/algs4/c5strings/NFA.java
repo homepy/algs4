@@ -27,10 +27,10 @@
 
 package edu.princeton.cs.algs4.c5strings;
 
-import edu.princeton.cs.algs4.c1fundamentals.Bag;
-import edu.princeton.cs.algs4.c1fundamentals.Stack;
-import edu.princeton.cs.algs4.c4graphs.Digraph;
-import edu.princeton.cs.algs4.c4graphs.DirectedDFS;
+import edu.princeton.cs.algs4.c1fundamentals.s3bqs.Bag;
+import edu.princeton.cs.algs4.c1fundamentals.s3bqs.Stack;
+import edu.princeton.cs.algs4.c4graphs.s2directed.Digraph;
+import edu.princeton.cs.algs4.c4graphs.s2directed.DirectedDFS;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 
 /**

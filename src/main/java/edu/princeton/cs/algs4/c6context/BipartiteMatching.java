@@ -10,10 +10,10 @@
 
 package edu.princeton.cs.algs4.c6context;
 
-import edu.princeton.cs.algs4.c1fundamentals.Queue;
+import edu.princeton.cs.algs4.c1fundamentals.s3bqs.Queue;
 import edu.princeton.cs.algs4.c4graphs.BipartiteX;
-import edu.princeton.cs.algs4.c4graphs.Graph;
 import edu.princeton.cs.algs4.c4graphs.GraphGenerator;
+import edu.princeton.cs.algs4.c4graphs.s1undirected.Graph;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 
 /**

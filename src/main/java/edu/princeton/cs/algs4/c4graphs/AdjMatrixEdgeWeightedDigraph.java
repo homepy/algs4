@@ -13,6 +13,7 @@ package edu.princeton.cs.algs4.c4graphs;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
+import edu.princeton.cs.algs4.c4graphs.s4ewdgsp.DirectedEdge;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 import edu.princeton.cs.algs4.stdlib.StdRandom;
 

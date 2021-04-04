@@ -13,7 +13,8 @@
 
 package edu.princeton.cs.algs4.c4graphs;
 
-import edu.princeton.cs.algs4.c1fundamentals.Stack;
+import edu.princeton.cs.algs4.c1fundamentals.s3bqs.Stack;
+import edu.princeton.cs.algs4.c4graphs.s1undirected.Graph;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 import edu.princeton.cs.algs4.stdlib.StdRandom;
 

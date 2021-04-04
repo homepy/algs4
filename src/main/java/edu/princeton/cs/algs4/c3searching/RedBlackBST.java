@@ -31,7 +31,7 @@ package edu.princeton.cs.algs4.c3searching;
 
 import java.util.NoSuchElementException;
 
-import edu.princeton.cs.algs4.c1fundamentals.Queue;
+import edu.princeton.cs.algs4.c1fundamentals.s3bqs.Queue;
 import edu.princeton.cs.algs4.stdlib.StdIn;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 

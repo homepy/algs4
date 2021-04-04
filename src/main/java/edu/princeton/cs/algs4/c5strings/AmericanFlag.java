@@ -28,7 +28,7 @@
 
 package edu.princeton.cs.algs4.c5strings;
 
-import edu.princeton.cs.algs4.c1fundamentals.Stack;
+import edu.princeton.cs.algs4.c1fundamentals.s3bqs.Stack;
 import edu.princeton.cs.algs4.stdlib.StdIn;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 

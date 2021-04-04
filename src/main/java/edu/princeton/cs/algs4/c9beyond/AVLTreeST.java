@@ -27,7 +27,7 @@ package edu.princeton.cs.algs4.c9beyond;
 
 import java.util.NoSuchElementException;
 
-import edu.princeton.cs.algs4.c1fundamentals.Queue;
+import edu.princeton.cs.algs4.c1fundamentals.s3bqs.Queue;
 import edu.princeton.cs.algs4.c3searching.BST;
 import edu.princeton.cs.algs4.c3searching.BinarySearchST;
 import edu.princeton.cs.algs4.c3searching.LinearProbingHashST;

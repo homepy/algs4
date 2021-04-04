@@ -16,7 +16,7 @@ package edu.princeton.cs.algs4.c9beyond;
 
 import java.util.Arrays;
 
-import edu.princeton.cs.algs4.c1fundamentals.Point2D;
+import edu.princeton.cs.algs4.c1fundamentals.s1s2.Point2D;
 import edu.princeton.cs.algs4.stdlib.StdIn;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 

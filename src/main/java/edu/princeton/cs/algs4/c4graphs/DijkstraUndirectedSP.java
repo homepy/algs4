@@ -36,8 +36,10 @@
 
 package edu.princeton.cs.algs4.c4graphs;
 
-import edu.princeton.cs.algs4.c1fundamentals.Stack;
+import edu.princeton.cs.algs4.c1fundamentals.s3bqs.Stack;
 import edu.princeton.cs.algs4.c2sorting.IndexMinPQ;
+import edu.princeton.cs.algs4.c4graphs.s3ewgmst.Edge;
+import edu.princeton.cs.algs4.c4graphs.s3ewgmst.EdgeWeightedGraph;
 import edu.princeton.cs.algs4.stdlib.In;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 

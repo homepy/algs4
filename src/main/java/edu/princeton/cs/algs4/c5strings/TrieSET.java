@@ -15,7 +15,7 @@ package edu.princeton.cs.algs4.c5strings;
 
 import java.util.Iterator;
 
-import edu.princeton.cs.algs4.c1fundamentals.Queue;
+import edu.princeton.cs.algs4.c1fundamentals.s3bqs.Queue;
 import edu.princeton.cs.algs4.stdlib.StdIn;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 

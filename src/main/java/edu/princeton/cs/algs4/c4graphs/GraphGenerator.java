@@ -14,6 +14,7 @@ package edu.princeton.cs.algs4.c4graphs;
 
 import edu.princeton.cs.algs4.c2sorting.MinPQ;
 import edu.princeton.cs.algs4.c3searching.SET;
+import edu.princeton.cs.algs4.c4graphs.s1undirected.Graph;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 import edu.princeton.cs.algs4.stdlib.StdRandom;
 

@@ -23,8 +23,13 @@
 
 package edu.princeton.cs.algs4.c4graphs;
 
-import edu.princeton.cs.algs4.c1fundamentals.Bag;
-import edu.princeton.cs.algs4.c1fundamentals.UF;
+import edu.princeton.cs.algs4.c1fundamentals.s3bqs.Bag;
+import edu.princeton.cs.algs4.c1fundamentals.s4s5.UF;
+import edu.princeton.cs.algs4.c4graphs.s3ewgmst.Edge;
+import edu.princeton.cs.algs4.c4graphs.s3ewgmst.EdgeWeightedGraph;
+import edu.princeton.cs.algs4.c4graphs.s3ewgmst.KruskalMST;
+import edu.princeton.cs.algs4.c4graphs.s3ewgmst.LazyPrimMST;
+import edu.princeton.cs.algs4.c4graphs.s3ewgmst.PrimMST;
 import edu.princeton.cs.algs4.stdlib.In;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 

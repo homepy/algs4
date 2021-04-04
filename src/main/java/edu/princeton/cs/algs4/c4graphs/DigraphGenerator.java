@@ -10,6 +10,7 @@
 package edu.princeton.cs.algs4.c4graphs;
 
 import edu.princeton.cs.algs4.c3searching.SET;
+import edu.princeton.cs.algs4.c4graphs.s2directed.Digraph;
 import edu.princeton.cs.algs4.stdlib.StdOut;
 import edu.princeton.cs.algs4.stdlib.StdRandom;
 
